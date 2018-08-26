@@ -1,0 +1,14 @@
+{
+  "name": "@syaleni/iran-map-geojson",
+  "main": "a6be7ee28b9479f4@505.js",
+  "version": "505.0.0",
+  "homepage": "https://observablehq.com/@syaleni/iran-map-geojson",
+  "author": {
+    "name": "Siavash Habibi",
+    "url": "https://observablehq.com/@syaleni"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
